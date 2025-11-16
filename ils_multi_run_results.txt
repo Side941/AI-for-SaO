@@ -1,0 +1,9 @@
+Multi-Run ILS Results
+====================
+Number of runs: 10
+Best Distance Found: 559.86
+Mean Distance: 599.03
+Standard Deviation: 24.70
+Computation Time: 85.16 seconds
+Best Route (city indices in order):
+9 -> 48 -> 19 -> 47 -> 46 -> 1 -> 43 -> 37 -> 4 -> 12 -> 22 -> 45 -> 33 -> 36 -> 3 -> 21 -> 5 -> 16 -> 34 -> 0 -> 27 -> 26 -> 17 -> 25 -> 40 -> 44 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 39 -> 41 -> 18 -> 7 -> 2 -> 49 -> 28 -> 29 -> 20 -> 13 -> 32 -> 8 -> 23 -> 11 -> 42 -> 30

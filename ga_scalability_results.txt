@@ -1,0 +1,38 @@
+Scalability Test: GA with Different City Sizes
+=============================================
+
+Number of Cities: 10
+Best Distance: 290.31
+Average Distance: 290.31
+Average Computation Time (s): 7.84
+Best Route (city indices in order):
+2 -> 7 -> 9 -> 6 -> 1 -> 4 -> 0 -> 5 -> 3 -> 8
+
+Number of Cities: 20
+Best Distance: 386.43
+Average Distance: 409.62
+Average Computation Time (s): 11.41
+Best Route (city indices in order):
+8 -> 13 -> 3 -> 5 -> 16 -> 0 -> 12 -> 4 -> 17 -> 1 -> 19 -> 6 -> 14 -> 10 -> 15 -> 9 -> 18 -> 2 -> 7 -> 11
+
+Number of Cities: 30
+Best Distance: 488.67
+Average Distance: 531.21
+Average Computation Time (s): 15.55
+Best Route (city indices in order):
+25 -> 17 -> 26 -> 27 -> 0 -> 16 -> 5 -> 21 -> 3 -> 22 -> 12 -> 4 -> 1 -> 19 -> 9 -> 11 -> 23 -> 8 -> 13 -> 20 -> 29 -> 28 -> 2 -> 7 -> 18 -> 24 -> 15 -> 10 -> 14 -> 6
+
+Number of Cities: 40
+Best Distance: 527.20
+Average Distance: 583.39
+Average Computation Time (s): 20.40
+Best Route (city indices in order):
+31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 39 -> 18 -> 30 -> 9 -> 11 -> 7 -> 2 -> 28 -> 29 -> 20 -> 13 -> 23 -> 8 -> 32 -> 22 -> 33 -> 36 -> 3 -> 21 -> 5 -> 16 -> 34 -> 0 -> 27 -> 12 -> 4 -> 19 -> 1 -> 37 -> 26 -> 17 -> 25
+
+Number of Cities: 50
+Best Distance: 645.28
+Average Distance: 688.51
+Average Computation Time (s): 74.46
+Best Route (city indices in order):
+16 -> 34 -> 5 -> 21 -> 3 -> 36 -> 33 -> 45 -> 22 -> 12 -> 0 -> 27 -> 26 -> 17 -> 25 -> 40 -> 37 -> 4 -> 43 -> 1 -> 46 -> 19 -> 47 -> 44 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 9 -> 48 -> 23 -> 8 -> 32 -> 13 -> 20 -> 29 -> 11 -> 42 -> 30 -> 39 -> 41 -> 18 -> 7 -> 2 -> 49 -> 28
+
