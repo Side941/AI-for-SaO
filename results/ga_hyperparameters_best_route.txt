@@ -1,0 +1,13 @@
+Genetic Algorithm - Hyperparameter Tuning Results
+===============================================
+
+Best Distance Found: 660.46
+
+Best Hyperparameters:
+  Population Size (P): 200
+  Mutation Rate (MUTRATE): 0.1
+  Generations: 500
+  Elite Size: 2
+
+Best Route (city indices in order):
+21 -> 36 -> 3 -> 33 -> 45 -> 22 -> 32 -> 8 -> 23 -> 11 -> 42 -> 30 -> 9 -> 24 -> 14 -> 10 -> 15 -> 48 -> 19 -> 47 -> 40 -> 4 -> 12 -> 13 -> 20 -> 29 -> 28 -> 49 -> 2 -> 7 -> 18 -> 41 -> 39 -> 38 -> 35 -> 6 -> 31 -> 44 -> 46 -> 1 -> 43 -> 37 -> 26 -> 17 -> 25 -> 27 -> 0 -> 16 -> 34 -> 5

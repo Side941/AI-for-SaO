@@ -1,0 +1,38 @@
+Scalability Test: ILS with Different City Sizes
+=============================================
+
+Number of Cities: 10
+Best Distance: 290.31
+Average Distance: 290.31
+Average Computation Time (s): 0.00
+Best Route (city indices in order):
+5 -> 3 -> 8 -> 2 -> 7 -> 9 -> 6 -> 1 -> 4 -> 0
+
+Number of Cities: 20
+Best Distance: 386.43
+Average Distance: 386.43
+Average Computation Time (s): 0.05
+Best Route (city indices in order):
+18 -> 9 -> 15 -> 10 -> 14 -> 6 -> 19 -> 1 -> 17 -> 4 -> 12 -> 0 -> 16 -> 5 -> 3 -> 13 -> 8 -> 11 -> 7 -> 2
+
+Number of Cities: 30
+Best Distance: 451.77
+Average Distance: 452.19
+Average Computation Time (s): 0.25
+Best Route (city indices in order):
+13 -> 20 -> 29 -> 28 -> 2 -> 7 -> 18 -> 11 -> 9 -> 24 -> 15 -> 10 -> 14 -> 6 -> 19 -> 1 -> 25 -> 17 -> 26 -> 27 -> 4 -> 12 -> 0 -> 16 -> 5 -> 21 -> 3 -> 22 -> 23 -> 8
+
+Number of Cities: 40
+Best Distance: 490.39
+Average Distance: 492.56
+Average Computation Time (s): 0.72
+Best Route (city indices in order):
+29 -> 20 -> 13 -> 11 -> 23 -> 8 -> 32 -> 22 -> 33 -> 36 -> 3 -> 21 -> 5 -> 16 -> 34 -> 0 -> 27 -> 12 -> 4 -> 37 -> 26 -> 17 -> 25 -> 1 -> 19 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 9 -> 30 -> 39 -> 18 -> 7 -> 2 -> 28
+
+Number of Cities: 50
+Best Distance: 559.86
+Average Distance: 565.08
+Average Computation Time (s): 1.39
+Best Route (city indices in order):
+12 -> 22 -> 45 -> 33 -> 36 -> 3 -> 21 -> 5 -> 16 -> 34 -> 0 -> 27 -> 26 -> 17 -> 25 -> 40 -> 44 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 39 -> 41 -> 18 -> 7 -> 2 -> 49 -> 28 -> 29 -> 20 -> 13 -> 32 -> 8 -> 23 -> 11 -> 42 -> 30 -> 9 -> 48 -> 19 -> 47 -> 46 -> 1 -> 43 -> 37 -> 4
+

@@ -1,0 +1,29 @@
+Multi-Run GA Results
+===================
+Number of Runs: 10
+Population Size: 200
+Mutation Rate: 0.1
+Elite Size: 2
+Generations: 500
+
+Run 1: Best Distance = 729.55, Computation Time = 3.16 seconds
+Run 2: Best Distance = 648.04, Computation Time = 3.09 seconds
+Run 3: Best Distance = 840.66, Computation Time = 3.17 seconds
+Run 4: Best Distance = 760.77, Computation Time = 3.10 seconds
+Run 5: Best Distance = 784.12, Computation Time = 3.11 seconds
+Run 6: Best Distance = 732.96, Computation Time = 3.12 seconds
+Run 7: Best Distance = 731.41, Computation Time = 3.29 seconds
+Run 8: Best Distance = 759.91, Computation Time = 3.25 seconds
+Run 9: Best Distance = 777.82, Computation Time = 3.25 seconds
+Run 10: Best Distance = 817.91, Computation Time = 3.26 seconds
+
+Multi-Run Statistics:
+Mean Best Distance: 758.32
+Std Deviation: 50.74
+Best Distance Overall: 648.04
+Worst Distance Overall: 840.66
+Mean Computation Time per Run: 3.18 seconds
+Total Experiment Time: 31.83 seconds
+
+Best Overall Route (from Run 2):
+17 -> 25 -> 40 -> 44 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 39 -> 41 -> 18 -> 7 -> 2 -> 49 -> 28 -> 29 -> 11 -> 42 -> 30 -> 9 -> 48 -> 19 -> 47 -> 46 -> 1 -> 43 -> 4 -> 37 -> 26 -> 27 -> 12 -> 22 -> 32 -> 8 -> 23 -> 13 -> 20 -> 45 -> 33 -> 36 -> 21 -> 5 -> 34 -> 16 -> 3 -> 0

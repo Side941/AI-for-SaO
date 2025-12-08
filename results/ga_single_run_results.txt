@@ -1,0 +1,14 @@
+Genetic Algorithm (GA) Single Run Results
+=========================================
+
+Population size: 200
+Mutation rate: 0.1
+Elite size: 2
+Generations: 400
+Total computation time: 2.54 seconds
+
+All-time best distance found: 718.58
+Final generation best distance: 735.84
+Best route (city indices in order):
+18 -> 49 -> 29 -> 28 -> 2 -> 7 -> 30 -> 9 -> 48 -> 31 -> 6 -> 35 -> 38 -> 14 -> 10 -> 15 -> 24 -> 19 -> 47 -> 46 -> 44 -> 40 -> 25 -> 17 -> 26 -> 37 -> 43 -> 1 -> 4 -> 27 -> 0 -> 16 -> 21 -> 36 -> 45 -> 20 -> 13 -> 23 -> 8 -> 32 -> 22 -> 33 -> 3 -> 5 -> 34 -> 12 -> 11 -> 42 -> 39 -> 41
+
